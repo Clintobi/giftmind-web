@@ -37,7 +37,6 @@ export async function createUserDoc(uid: string, email: string, displayName?: st
     display_name: displayName || "",
     subscription_status: "free",
     subscription_provider: null,
-    stripe_customer_id: undefined,
     subscription_expires_at: null,
     people_count: 0,
     created_at: Timestamp.now(),
