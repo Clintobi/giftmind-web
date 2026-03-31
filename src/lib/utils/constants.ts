@@ -1,0 +1,7 @@
+export const FREE_TIER_PERSON_LIMIT = 10;
+export const NOTE_MAX_LENGTH = 500;
+export const AI_SUGGESTION_MIN_NOTES = 2;
+export const AI_SUGGESTION_MAX_NOTES_INPUT = 20;
+export const AI_SUGGESTION_CACHE_DAYS = 7;
+export const SUBSCRIPTION_MONTHLY_PRICE = 4.99;
+export const SUBSCRIPTION_ANNUAL_PRICE = 29.99;
